@@ -1,14 +1,24 @@
-# ????? | Yuanshen Laolai
+# 元数据老赖 | MetadataNoCost
 
-> **??????**?[cat-yummi-dspmod/DSP-YuanshenLaolai](https://github.com/cat-yummi-dspmod/DSP-YuanshenLaolai)???? `DSP-MetadataNoCost` ???????????
+GitHub 仓库：**[cat-yummi-dspmod/DSP-MetadataNoCost](https://github.com/cat-yummi-dspmod/DSP-MetadataNoCost)**
 
-????? Metadata ???????????????????????????????
+清除 Property 文件夹中的跨存档消耗记录；存档内统计不变。
 
-Clears cross-save Metadata consumption; shares the Metadata Cheats page with Yuanshen Qidong.
+## 功能
 
-## ?? Features
+- 「启用：不扣除元数据」（`General/Enabled`）
+- 约每秒清理一次跨存档消耗
 
-- ???? `General/Enabled`
-- ???? Property ??????????
+## Features
 
-See [DSP-YuanshenLaolai](https://github.com/cat-yummi-dspmod/DSP-YuanshenLaolai) for full documentation.
+- Enable no Metadata deduction (`General/Enabled`)
+
+## 依赖
+
+- BepInEx、`cat_yummi-YummiUIHarness`
+
+## Changelog
+
+### 0.0.0
+
+- 初始发布
