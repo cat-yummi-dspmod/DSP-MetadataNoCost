@@ -1,0 +1,10 @@
+{
+  "name": "MetadataNoCost",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/cat-yummi-dspmod/DSP-MetadataNoCost",
+  "description": "Use Metadata without deduction. Made by yummi. | 免费使用元数据。流浪法师悠米制作。",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.22",
+    "cat_yummi-YummiUIHarness-0.0.0"
+  ]
+}
