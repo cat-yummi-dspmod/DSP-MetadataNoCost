@@ -5,6 +5,6 @@
   "description": "Metadata NoCost: no cross-save Metadata deduction. | 元数据老赖：跨存档使用元数据不扣除。",
   "dependencies": [
     "xiaoye97-BepInEx-5.4.22",
-    "cat_yummi-YummiUIHarness-0.0.0"
+    "cat_yummi-YummiUIPanel-0.0.0"
   ]
 }

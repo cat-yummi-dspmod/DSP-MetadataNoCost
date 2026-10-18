@@ -15,7 +15,7 @@ GitHub 仓库：**[cat-yummi-dspmod/DSP-MetadataNoCost](https://github.com/cat-y
 
 ## 依赖
 
-- BepInEx、`cat_yummi-YummiUIHarness`
+- BepInEx、`cat_yummi-YummiUIPanel`
 
 ## Changelog
 
