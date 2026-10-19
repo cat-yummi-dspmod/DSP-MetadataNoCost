@@ -1,10 +1,10 @@
 {
   "name": "MetadataNoCost",
-  "version_number": "0.0.0",
+  "version_number": "0.0.1",
   "website_url": "https://github.com/cat-yummi-dspmod/DSP-MetadataNoCost",
   "description": "Metadata NoCost: no cross-save Metadata deduction. | 元数据老赖：跨存档使用元数据不扣除。",
   "dependencies": [
-    "xiaoye97-BepInEx-5.4.22",
-    "cat_yummi-YummiUIPanel-0.0.0"
+    "xiaoye97-BepInEx-5.4.17",
+    "cat_yummi-CatUIPanel-0.0.1"
   ]
 }

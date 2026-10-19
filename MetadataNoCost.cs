@@ -2,7 +2,7 @@ using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
 using HarmonyLib;
-using YummiUIPanel;
+using CatUIPanel;
 
 namespace MetadataNoCost
 {
@@ -12,7 +12,7 @@ namespace MetadataNoCost
     {
         public const string PLUGIN_GUID = "com.yummi.dsp.metadatanocost";
         public const string PLUGIN_NAME = "元数据老赖";
-        public const string PLUGIN_VERSION = "0.0.0";
+        public const string PLUGIN_VERSION = "0.0.1";
         public const string PageKey = "metadata_cheats";
         public const string PageTitleZh = "元数据作弊";
         public const string PageTitleEn = "Metadata Cheats";
